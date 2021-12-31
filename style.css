@@ -1,0 +1,36 @@
+table {
+  display: inline-block;
+  position: relative;
+  border: 4px double black;
+    background: #fc3;
+    padding: 10px;
+  color:red;
+}
+[href ="https://t.me/quizizzubt"]{
+  color:purple
+}
+[id="r"]{
+  color:purple
+}
+
+h3 {
+  color:purple
+}
+P {
+    text-align: justify;
+   }
+   P.cite {
+    color: navy;
+    margin-left: 20px;
+    border-left: 1px solid navy;
+    padding-left: 15px;
+   }
+   body {
+   margin: 10; /* Убираем отступы */
+  }
+  .aim {
+    margin: 50;
+   margin: 1%; /* Отступы вокруг элемента */
+   background: #fd0; /* Цвет фона */
+   padding: 10px; /* Поля вокруг текста */
+  }
